@@ -1,0 +1,11 @@
+{
+  "name": "node-http",
+  "version": "1.0.0",
+  "description": "Node HTTP Module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server"
+  },
+  "author": "WestCliff Instructor",
+  "license": "ISC"
+}
